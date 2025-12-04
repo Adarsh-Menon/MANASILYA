@@ -1,0 +1,8 @@
+uv
+python-dotenv
+ipykernel
+langchain
+langchain-community
+openai
+tiktoken
+rapidocr-onnxruntime
